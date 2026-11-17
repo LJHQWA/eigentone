@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/01-equaliser-0.43.1.png" width="19%" alt="Equaliser tab: the EQ curve over the live spectrum, and the graphic EQ faders with their dB scale">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/02-effects-0.43.1.png" width="19%" alt="Effects tab: preset strength, preamp and tone controls">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/03-presets-0.43.1.png" width="19%" alt="Presets tab: search, and your presets with favourites starred">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/04-headphones-0.43.1.png" width="19%" alt="Earbuds tab, named after what is connected: headphone correction and the preset that loads automatically">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/05-settings-0.43.1.png" width="19%" alt="Settings: volume, level, stereo, theme, the colour picker and Advanced controls">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/01-equaliser-0.44.0.png" width="19%" alt="Equaliser tab: the EQ curve over the live spectrum, and the graphic EQ faders with their dB scale">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/02-effects-0.44.0.png" width="19%" alt="Effects tab: preset strength, preamp and tone controls">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/03-presets-0.44.0.png" width="19%" alt="Presets tab: search, and your presets with favourites starred">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/04-headphones-0.44.0.png" width="19%" alt="Earbuds tab, named after what is connected: headphone correction and the preset that loads automatically">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/05-settings-0.44.0.png" width="19%" alt="Settings: Advanced controls, then volume, level, stereo and appearance">
 </p>
 
 > *Eigentones are the natural resonant tones of an enclosed space. "Eigen" is German for "own", so the name reads as "your own tone".*
@@ -65,6 +65,12 @@ Every feature is listed in [Features](docs/FEATURES.md), and [Eigentone and Wave
 
 > [!NOTE]
 > Eigentone is a pre-release, tested on three phones so far. If something doesn't work on yours, please [open an issue](https://github.com/Dragjon/eigentone/issues). [Installing and updating](docs/INSTALL.md) has the details.
+
+## On Windows
+
+Eigentone is on Windows 11 too, as [Eigentone for Windows](https://github.com/Dragjon/eigentone-windows). It has the same presets, curves and tools, laid out as an audio studio for a bigger screen, and it shapes every app through a plug-in in Windows' own audio engine. It adds a tray icon, shortcuts that work from any app, and presets per app.
+
+Download the installer from its [releases](https://github.com/Dragjon/eigentone-windows/releases). It's an early pre-release too. Presets move between your phone and your PC with share codes and backups, which both versions read.
 
 ## Documentation
 
